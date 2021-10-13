@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImpIntentApp</string>
+    <string name="i_am">i am</string>
+    <string name="who_are_you">Who are you ?</string>
+    <string name="visit">visit</string>
+    <string name="this_is_second_activity">this is second activity</string>
+</resources>
